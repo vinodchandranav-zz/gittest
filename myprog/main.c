@@ -6,3 +6,5 @@ int main()
     printf("Hello world!\n");
     return 0;
 }
+
+This my new file for git test 
